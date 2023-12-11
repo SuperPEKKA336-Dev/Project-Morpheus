@@ -5,7 +5,7 @@
 
 Author: [@SuperPEKKA336-Dev](https://github.com/SuperPEKKA336-Dev)  
 Version: `1.0.1 Alpha`  
-Updated: `12/09/2023`  
+Updated: `12/10/2023`  
 Language: `Node.js`   
 Repository: None   
 License: [GNU Affero General Public License v3.0](LICENSE)    
