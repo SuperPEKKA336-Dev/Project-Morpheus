@@ -53,7 +53,7 @@ module.exports =
 			.setFooter
 			({
 				text: 'Dreamlab',
-				iconURL: 'https://i.ibb.co/VmDHBZ1/dreamlab.jpg'
+				iconURL: 'https://i.ibb.co/42LPXdk/Dreamlab-Logo.png'
 			});
 		
 	    embed.author =
