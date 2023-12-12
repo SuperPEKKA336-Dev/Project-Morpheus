@@ -100,7 +100,7 @@ module.exports =
       {
         await interaction.reply(
         {
-          embeds: [EMBEDS.JOIN_RAINBOW],
+          embeds: [EMBEDS.JOIN_RAINBOWSIX],
           ephemeral: true
         });
       }catch(err)
