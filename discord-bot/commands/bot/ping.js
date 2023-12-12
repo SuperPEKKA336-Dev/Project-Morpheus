@@ -17,7 +17,7 @@ module.exports =
       embeds: [embed]
     });
 
-    embed.description = `Ping: \`${sent.createdTimestamp - interaction.createdTimestamp}ms\``;
+    embed.description = `## Ping\n\nPing: \`${sent.createdTimestamp - interaction.createdTimestamp}ms\``;
 
     sent.edit(
     {

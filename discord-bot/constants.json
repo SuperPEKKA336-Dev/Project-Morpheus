@@ -30,14 +30,14 @@
     {
       "color": 16711680,
 
-      "description": "**An error occured.**"
+      "description": "## An error occured."
     },
 
     "SUCCESS":
     {
       "color": 13311,
 
-      "description": "**Command successfully excecuted.**"
+      "description": "## Command successfully excecuted."
     },
 
     "RULES":
@@ -96,13 +96,6 @@
         
         "icon_url": "https://i.ibb.co/42LPXdk/Dreamlab-Logo.png"
       }
-    },
-
-    "ROLES":
-    {
-      "color": 13311,
-      
-      "description": "# Roles"
     },
 
     "PRONOUNS":
@@ -177,10 +170,8 @@
     "JOIN_DISCORD":
     {
       "color": 13311,
-
-      "title": "Dreamlab Discord Server",
       
-      "description": "<:Discord:800846129277304882> [**discord.gg/JzPfZfP5Jg**](https://discord.gg/JzPfZfP5Jg)",
+      "description": "## Dreamlab Discord Server\n\n<:Discord:800846129277304882> [**discord.gg/JzPfZfP5Jg**](https://discord.gg/JzPfZfP5Jg)",
       
       "thumbnail":
       {
@@ -197,10 +188,8 @@
     "JOIN_MINECRAFT":
     {
       "color": 13311,
-
-      "title": "Dreamlab Minecraft Server",
       
-      "description": "<:minecraft:1178968952681013259> ```mc.dreamlabgaming.net```",
+      "description": "## Dreamlab Minecraft Server\n\n<:minecraft:1178968952681013259> ```mc.dreamlabgaming.net```",
       
       "thumbnail":
       {
@@ -217,10 +206,8 @@
     "JOIN_COUNTERSTRIKE":
     {
       "color": 13311,
-
-      "title": "Dreamlab Counter-Strike 2 Server",
       
-      "description": "<:counterstrike:1178967372338561085> ```[OFFLINE]```",
+      "description": "## Dreamlab Counter-Strike 2 Server\n\n<:counterstrike:1178967372338561085> ```[OFFLINE]```",
       
       "thumbnail":
       {
@@ -237,10 +224,8 @@
     "JOIN_RAINBOWSIX":
     {
       "color": 13311,
-
-      "title": "Dreamlab Rainbow Six Siege Server",
       
-      "description": "<:rainbowsix:1178970020710207498> ```[OFFLINE]```",
+      "description": "## Dreamlab Rainbow Six Server\n\n<:rainbowsix:1178970020710207498> ```[OFFLINE]```",
       
       "thumbnail":
       {
@@ -258,37 +243,28 @@
     {
       "color": 16711680,
 
-      "description": "**Error: Role not found.**"
+      "description": "## Error: Role not found."
     },
 
     "ROLE_ADDED":
     {
       "color": 65280,
 
-      "description": "**Role successfully granted.**"
+      "description": "## Role successfully granted."
     },
 
     "ROLE_REMOVED":
     {
       "color": 65280,
 
-      "description": "**Role successfully removed.**"
-    },
-
-    "ROLE_CHANGED":
-    {
-      "color": 65280,
-
-      "description": "**Role successfully changed.**"
+      "description": "## Role successfully removed."
     },
 
     "PING":
     {
       "color": 13311,
-
-      "title": "Ping",
       
-      "description": "Pinging . . . .",
+      "description": "##Ping\n\nPinging . . . .",
       
       "footer":
       {
@@ -317,9 +293,7 @@
     {
       "color": 13311,
 
-      "title": "About Dreamlab Bot",
-
-      "description": "```Project Morpheus```\n\n**Links**\n<:Discord:800846129277304882> [**Discord Server**](https://discord.gg/ahhWwa8EaK)\n<:GitHub:1094811761976283217> [**GitHub Repository**](https://github.com/SuperPEKKA336-Dev/Project-Morpheus)\n\n**Credits**\n<:SuperPEKKA336:1124155382818947152> `superpekka336` - Creator/Programmer\n:hamburger: `budgethuman` - Advisor\n\n**Bot Information**\nVersion: `1.0.1 Alpha`\nLanguage: <:nodejs:1152276407595040808> JavaScript (Node.js)",
+      "description": "## About Dreamlab Bot\n\n`Project Morpheus`\n\n**Links**\n<:Discord:800846129277304882> [**Discord Server**](https://discord.gg/ahhWwa8EaK)\n<:GitHub:1094811761976283217> [**GitHub Repository**](https://github.com/SuperPEKKA336-Dev/Project-Morpheus)\n\n**Credits**\n<:SuperPEKKA336:1124155382818947152> `superpekka336` - Creator/Programmer\n:hamburger: `budgethuman` - Advisor\n\n**Bot Information**\nVersion: `1.0.1 Alpha`\nLanguage: <:nodejs:1152276407595040808> JavaScript (Node.js)",
 
       "thumbnail":
       {
@@ -353,9 +327,7 @@
     {
       "color": 13311,
 
-      "title": "Welcome",
-
-      "description": "Welcome to the Dreamlab Server <@%user>!",
+      "description": "## Welcome\n\nWelcome to the Dreamlab Server <@%user>!",
 
       "thumbnail":
       {
