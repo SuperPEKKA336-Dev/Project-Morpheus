@@ -1,18 +1,11 @@
 const {SlashCommandBuilder, ButtonBuilder, ButtonStyle, ActionRowBuilder} = require('discord.js');
 
-const {EMBEDS, CREW} = require('../../constants.json');
+const {EMBEDS} = require('../../constants.json');
 
-const signup = new ButtonBuilder()
-  .setURL('https://forms.gle/ns35zeeRZgrQJoQr6')
-  .setLabel('Sign up!')
-  .setStyle(ButtonStyle.Link);
 const discordLink = new ButtonBuilder()
-  .setURL('https://discord.gg/ahhWwa8EaK')
+  .setURL('https://discord.gg/JzPfZfP5Jg')
   .setLabel('Join!')
   .setStyle(ButtonStyle.Link);
-
-const row = new ActionRowBuilder()
-  .addComponents(signup);
 
 const discordRow = new ActionRowBuilder()
   .addComponents(discordLink);
@@ -91,7 +84,6 @@ module.exports =
         await interaction.reply(
         {
           embeds: [EMBEDS.JOIN_COUNTERSTRIKE],
-          components: [row],
           ephemeral: true
         });
       }catch(err)
@@ -109,7 +101,6 @@ module.exports =
         await interaction.reply(
         {
           embeds: [EMBEDS.JOIN_RAINBOW],
-          components: [row],
           ephemeral: true
         });
       }catch(err)
