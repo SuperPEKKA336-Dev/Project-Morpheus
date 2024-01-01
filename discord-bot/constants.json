@@ -67,6 +67,13 @@
       "thumbnail":
       {
         "url": "https://i.ibb.co/42LPXdk/Dreamlab-Logo.png"
+      },
+
+      "footer":
+      {
+        "text": "Dreamlab",
+        
+        "icon_url": "https://i.ibb.co/42LPXdk/Dreamlab-Logo.png"
       }
     },
 
@@ -74,14 +81,28 @@
     {      
       "color": 13311,
       
-      "description": "## Location and Hours of Operation\n\n[**1023 S Baldwin Ave,  Arcadia, CA 91007**](https://maps.app.goo.gl/7vCrHbt4zpFHBEje6)\n\n```Monday            6:00 pm - 12:00 am\nTuesday                       Closed\nWednesday                     Closed\nThursday                      Closed\nFriday            6:00 pm - 12:00 am\nSaturday          6:00 pm - 12:00 am\nSunday            6:00 pm - 12:00 am```\n*Hours are subject to change"
+      "description": "## Location and Hours of Operation\n\n[**1023 S Baldwin Ave,  Arcadia, CA 91007**](https://maps.app.goo.gl/7vCrHbt4zpFHBEje6)\n\n```Monday            6:00 pm - 12:00 am\nTuesday                       Closed\nWednesday                     Closed\nThursday                      Closed\nFriday            6:00 pm - 12:00 am\nSaturday          6:00 pm - 12:00 am\nSunday            6:00 pm - 12:00 am```\n*Hours are subject to change",
+
+      "footer":
+      {
+        "text": "Dreamlab",
+        
+        "icon_url": "https://i.ibb.co/42LPXdk/Dreamlab-Logo.png"
+      }
     },
 
     "INFO_3":
     {      
       "color": 13311,
       
-      "description": "## Pricing\n\n**Hourly Rate**\n```1 Hour                         $3.50\n4 Hours                       $12.00\n10 Hours                      $25.00\n100 Hours                    $100.00```\n[**Private Event**](https://dreamlabgaming.net/book/)\n```1 Hour†                       $80.00```\n*Prices are subject to change\n†Minimum of 3 hours and a $25.00 cleaning fee"
+      "description": "## Pricing\n\n**Hourly Rate**\n```1 Hour                         $3.50\n4 Hours                       $12.00\n10 Hours                      $25.00\n100 Hours                    $100.00```\n[**Private Event**](https://dreamlabgaming.net/book/)\n```1 Hour†                       $80.00```\n*Prices are subject to change\n†Minimum of 3 hours and a $25.00 cleaning fee",
+
+      "footer":
+      {
+        "text": "Dreamlab",
+        
+        "icon_url": "https://i.ibb.co/42LPXdk/Dreamlab-Logo.png"
+      }
     },
 
     "INFO_4":
@@ -90,6 +111,67 @@
       
       "description": "## Social Media\n\n🌐 [**Website**](https://dreamlabgaming.net/)\n📞 Phone Number - (626)348-8534\n<:Instagram:1094813901436231812>  [**Instagram**](https://www.instagram.com/Dreamlabgaming/)\n<:facebook:1178904521754284113> [**Facebook**](https://www.facebook.com/DreamlabGaming.Arcadia/)\n<:Discord:800846129277304882> [**Discord Server**](https://www.discord.gg/JzPfZfP5Jg)",
     
+      "footer":
+      {
+        "text": "Dreamlab",
+        
+        "icon_url": "https://i.ibb.co/42LPXdk/Dreamlab-Logo.png"
+      }
+    },
+
+    "SERVICES_1":
+    {      
+      "color": 13311,
+      
+      "description": "# Services\nDreamlab Gaming offers a variety of services from 3D printing to computer repairing. A description of the services offered are shown below.\n",
+      
+      "thumbnail":
+      {
+        "url": "https://i.ibb.co/42LPXdk/Dreamlab-Logo.png"
+      },
+
+      "footer":
+      {
+        "text": "Dreamlab",
+        
+        "icon_url": "https://i.ibb.co/42LPXdk/Dreamlab-Logo.png"
+      }
+    },
+
+    "SERVICES_2":
+    {      
+      "color": 13311,
+      
+      "description": "## Computer Repair\n\n```Virus Removal                 $99.99\nData Backup/Transfer          $69.99\nNetwork Setup                 $69.99\nComputer Setup                $29.99\nOperating System Repair       $99.99```\n*Prices are subject to change",
+
+      "footer":
+      {
+        "text": "Dreamlab",
+        
+        "icon_url": "https://i.ibb.co/42LPXdk/Dreamlab-Logo.png"
+      }
+    },
+
+    "SERVICES_3":
+    {     
+      "color": 13311,
+      
+      "description": "## 3D Printing\n\n`Coming soon!`",
+
+      "footer":
+      {
+        "text": "Dreamlab",
+        
+        "icon_url": "https://i.ibb.co/42LPXdk/Dreamlab-Logo.png"
+      }
+    },
+
+    "SERVICES_4":
+    {     
+      "color": 13311,
+      
+      "description": "## Sticker Printing\n\n`Coming soon!`",
+
       "footer":
       {
         "text": "Dreamlab",

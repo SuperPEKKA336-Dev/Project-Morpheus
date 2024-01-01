@@ -20,6 +20,10 @@ module.exports =
         {
           name: 'Info',
           value: 'embed_info'
+        },
+        {
+          name: 'Services',
+          value: 'embed_services'
         }))
     .addChannelOption(option =>
       option.setName('channel')
@@ -72,6 +76,43 @@ module.exports =
         channel.send(
         {
           embeds: [EMBEDS.INFO_4]
+        });
+    
+        await interaction.reply(
+        {
+          embeds: [EMBEDS.SUCCESS],
+          ephemeral: true
+        });
+      }catch(err)
+      {
+        await interaction.reply(
+        {
+          embeds: [EMBEDS.ERROR],
+          ephemeral: true
+        });
+      }
+    }else if(type === 'embed_services')
+    {
+      try
+      {
+        channel.send(
+        {
+          embeds: [EMBEDS.SERVICES_1]
+        });
+
+        channel.send(
+        {
+          embeds: [EMBEDS.SERVICES_2]
+        });
+
+        channel.send(
+        {
+          embeds: [EMBEDS.SERVICES_3]
+        });
+
+        channel.send(
+        {
+          embeds: [EMBEDS.SERVICES_4]
         });
     
         await interaction.reply(
