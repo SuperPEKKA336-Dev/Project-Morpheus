@@ -81,7 +81,7 @@
     {      
       "color": 13311,
       
-      "description": "## Location and Hours of Operation\n\n[**1023 S Baldwin Ave,  Arcadia, CA 91007**](https://maps.app.goo.gl/7vCrHbt4zpFHBEje6)\n\n```Monday            6:00 pm - 12:00 am\nTuesday                       Closed\nWednesday                     Closed\nThursday                      Closed\nFriday            6:00 pm - 12:00 am\nSaturday          6:00 pm - 12:00 am\nSunday            6:00 pm - 12:00 am```\n*Hours are subject to change",
+      "description": "## Location and Hours of Operation\n\n[**1023 S Baldwin Ave,  Arcadia, CA 91007**](https://maps.app.goo.gl/7vCrHbt4zpFHBEje6)\n\n```Monday            6:00 pm - 12:00 am\nTuesday           6:00 pm - 12:00 am\nWednesday         6:00 pm - 12:00 am\nThursday          6:00 pm - 12:00 am\nFriday            6:00 pm - 12:00 am\nSaturday          6:00 pm - 12:00 am\nSunday            6:00 pm - 12:00 am```\n*Hours are subject to change",
 
       "footer":
       {
@@ -346,7 +346,7 @@
     {
       "color": 13311,
       
-      "description": "##Ping\n\nPinging . . . .",
+      "description": "## Ping\n\nPinging . . . .",
       
       "footer":
       {
