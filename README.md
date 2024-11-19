@@ -8,8 +8,7 @@ Version: `1.0.1 Alpha`
 Updated: `01/04/2024`  
 Language: `Node.js`   
 Repository: None   
-License: [GNU Affero General Public License v3.0](LICENSE)    
-Discord Server: [`discord.gg/ahhWwa8EaK`](https://discord.gg/ahhWwa8EaK)    
+License: [GNU Affero General Public License v3.0](LICENSE)     
 Main File: [index.js](discord-bot/index.js)
 
 ## **Notes**
